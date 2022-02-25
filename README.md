@@ -1,2 +1,7 @@
 ## Table of contents
-- PROJECT TITLE
+- [PROJECT TITLE](https://projecttitle.github.com/)
+- DESCRIPTION
+- HOW TO RUN PROGRAM
+- FILES USED
+- ADDITIONAL DOCUMENTATION
+- VERSIONING
