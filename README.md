@@ -8,7 +8,7 @@
 *Hello Sample World*
 
 ## Description 
-
+Practice using GitHub by creating a sample repository
 
 ## Files Used
 
