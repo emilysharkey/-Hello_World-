@@ -1,8 +1,10 @@
 # Table of contents
 - [PROJECT TITLE](https://projecttitle.github.com/)
 - [DESCRIPTION](https://description.github.com/)
+- [HOW TO RUN PROGRAM](https://howtorunprogram.github.com/)
 - [FILES USED](https://filesused.github.com/)
 - [ADDITIONAL DOCUMENTATION](https://additionaldocumentation.github.com/)
+- [VERSIONING](https://versioning.github.com/)
 
 # Project Title 
 *Hello Sample World*
