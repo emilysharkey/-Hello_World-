@@ -1,7 +1,5 @@
 ## Table of contents
 - [PROJECT TITLE](https://projecttitle.github.com/)
-- DESCRIPTION
-- HOW TO RUN PROGRAM
-- FILES USED
+- [DESCRIPTION](https://description.github.com/)
+- [FILES USED](https://filesused.github.com/)
 - ADDITIONAL DOCUMENTATION
-- VERSIONING
